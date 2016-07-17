@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">行動學習</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_rec">RecActivity</string>
+    <string name="title_activity_item">Map</string>
+    <string name="title_activity_show">Map</string>
+    <string name="title_activity_test">Map</string>
+    <string name="title_activity_login">行動學習</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Account</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">登入</string>
+    <string name="action_sign_in_short">行動學習</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This Account or password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="showAll">"我的發現圖鑑"</string>
+    <string name="findNew">"發現新東西"</string>
+    <string name="logout">"登出"</string>
+    <string name="title_activity_main_menu">行動學習</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_web">查詢維基百科</string>
+    <string name="title_activity_observe">查看同學作業</string>
+    <string name="title_activity_indivisual_observe">IndivisualObserveActivity</string>
+</resources>
